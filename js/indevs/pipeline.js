@@ -14,7 +14,7 @@ const baseWidth = 2;
 const rangeWidth = 4;
 const baseHue = 180;
 const rangeHue = 60;
-const backgroundColor = 'hsla(150,80%,1%,1)';
+const backgroundColor = '#fff';
 
 let container;
 let canvas;
